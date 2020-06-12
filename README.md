@@ -1,3 +1,9 @@
+https://juddiemoya.gitlab.io/rolling-dice
+
+
+
+
+
 how to generate randomn numbers
     function for rolling a die
      sum of 2 dice roll
